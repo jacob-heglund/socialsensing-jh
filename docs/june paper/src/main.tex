@@ -1,0 +1,131 @@
+    % https://www.tandfonline.com/action/authorSubmission?journalCode=tsri20&page=instructions#formatting
+
+    % interactapasample.tex
+    % v1.05 - August 2017
+
+    \documentclass[]{interact}
+
+    \usepackage{epstopdf}% To incorporate .eps illustrations using PDFLaTeX, etc.
+    \usepackage[caption=false]{subfig}% Support for small, `sub' figures and tables
+    %\usepackage[nolists,tablesfirst]{endfloat}% To `separate' figures and tables from text if required
+    %\usepackage[doublespacing]{setspace}% To produce a `double spaced' document if required
+    %\setlength\parindent{24pt}% To increase paragraph indentation when line spacing is doubled
+
+    \usepackage[longnamesfirst,sort]{natbib}% Citation support using natbib.sty
+    \bibpunct[, ]{(}{)}{;}{a}{,}{,}% Citation support using natbib.sty
+    \renewcommand\bibfont{\fontsize{10}{12}\selectfont}% To set the list of references in 10 point font using natbib.sty
+
+    %\usepackage[natbibapa,nodoi]{apacite}% Citation support using apacite.sty. Commands using natbib.sty MUST be deactivated first!
+    %\setlength\bibhang{12pt}% To set the indentation in the list of references using apacite.sty. Commands using natbib.sty MUST be deactivated first!
+    %\renewcommand\bibliographytypesize{\fontsize{10}{12}\selectfont}% To set the list of references in 10 point font using apacite.sty. Commands using natbib.sty MUST be deactivated first!
+
+    \theoremstyle{plain}% Theorem-like structures provided by amsthm.sty
+    \newtheorem{theorem}{Theorem}[section]
+    \newtheorem{lemma}[theorem]{Lemma}
+    \newtheorem{corollary}[theorem]{Corollary}
+    \newtheorem{proposition}[theorem]{Proposition}
+
+    \theoremstyle{definition}
+    \newtheorem{definition}[theorem]{Definition}
+    \newtheorem{example}[theorem]{Example}
+
+    \theoremstyle{remark}
+    \newtheorem{remark}{Remark}
+    \newtheorem{notation}{Notation}
+
+    \begin{document}
+
+    \articletype{ARTICLE TEMPLATE}% Specify the article type or omit as appropriate
+
+    \title{Social Sensing: Social Media as a Sensor for Critical Infrastructure Resilience}
+
+    \author{
+    \name{A.~N. Author\textsuperscript{a}\thanks{CONTACT A.~N. Author. Email: latex.helpdesk@tandf.co.uk} and John Smith\textsuperscript{b}}
+    \affil{\textsuperscript{a}Taylor \& Francis, 4 Park Square, Milton Park, Abingdon, UK; \textsuperscript{b}Institut f\"{u}r Informatik, Albert-Ludwigs-Universit\"{a}t, Freiburg, Germany}
+    }
+
+    \maketitle
+
+    \begin{abstract}
+    This is for authors who are preparing a manuscript for a Taylor \& Francis journal using the \LaTeX\ document preparation system and the \texttt{interact} class file, which is available via selected journals' home pages on the Taylor \& Francis website.
+    \end{abstract}
+
+    \section{TODO}
+    \textbf{Who is the audience for this paper?}
+
+    \textbf{How will the paper be different form the Air Force summer report?}
+
+
+    \textbf{What is the main point?}
+
+    - My idea: “We want to show the feasibility of social media as a sensor for recovering the use of CIs after a disaster”
+
+    \textbf{What results beyond the summer results do we want to include?}
+
+
+    \section{Introduction}
+
+    - what are critical infrastructures, what role do they fill in society?  Resilience of CIs is obviously important then.
+
+    - how did Hurricane Sandy specifically cause disruption with CIs in New York (short timeline of events here)?  How did the current disaster recovery system fail (how long were some areas without power?)?
+
+    - in order to facilitate better recovery and better CI resilience, we wanted to examine the connection between trending topics seen on social media and two specific CIs, the transportation system (busses, trains, subways, taxis, Uber/Lyft(?)) and the power system
+
+    - - one important aspect part of our work is the real-time nature of social media as a sensor.  Social networks even recognize their value in this, as Facebook has the "mark me safe" feature.  We will determine the feasibility of Twitter as a sensor that can facilitate action by governing bodies by comparing mined text data with data from transportation and power systems.  By comparing during a spectrum of disasters that have occurred in the past, we motivate further study in the area of social media as a sensor.
+
+    \section{Background}
+    - what has been done to examine online media and disasters?
+
+    - - mostly after the fact stuff, and it shows some nice correlations that inspire this work (page 2 from the Air Force report)
+
+
+    \section{Method}
+    - this work is a feasibility study, and this analysis is done with the expectation of future collaborations with both governing bodies and CI providers (power companies)
+
+    - last paragraph of page 2 of Air Force report
+
+    \subsection{Data Collection + Datasets}
+    - we collected xxx data from Twitter around the time of Hurricane Sandy
+
+    - - we did processing to the Twitter data to extract meaning from the tweets
+
+
+    - Power Data: NYISO
+
+    - Transit Data: NYCTLC
+
+    \subsection{Statistics}
+    - talk about correlations (summer work) and for which time period and regions they were done
+
+    \subsection{Statistical Modeling}
+    - talk about regression we tried (ARMA, ARIMA)
+
+    - talk about differencing and the inherent non-stationarity of the data (different regimes)
+
+    \subsection{Economic Bias Modeling}
+    - talk about J's contributions
+
+    \section{Discussion of Results}
+
+    - we have also been developing the capability to collect more Twitter data to expand the reach of this study
+
+
+    \section{Conclusion}
+
+    \section*{Funding}
+
+
+    \begin{thebibliography}{}
+    % useful command
+    % \citep{}: outputs (author's last name, year)
+
+    % APA Example
+    % \bibitem[Von~Ledebur(2007)]{VL07}
+    % Von~Ledebur, S.~C. (2007). Optimizing knowledge transfer by new
+    % employees in companies. \emph{Knowledge Management Research \&
+    % Practice}. Advance online publication. doi:10.1057/palgrave/kmrp.8500141
+
+    \end{thebibliography}
+
+    \end{document}
+

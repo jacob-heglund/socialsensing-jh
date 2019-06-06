@@ -1,0 +1,21 @@
+
+name: twitterinfrastructure
+channels:
+- defaults
+dependencies:
+- ipywidgets
+- jupyter
+- matplotlib
+- nltk
+- numpy
+- pandas
+- pip:
+  - Fiona
+  - Shapely
+- pymongo
+- pyproj
+- pytest
+- python=3
+- seaborn
+- scikit-learn
+- tqdm

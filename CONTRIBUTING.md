@@ -1,0 +1,3 @@
+# Contribution Guide
+
+See this [Contribution Guide](https://github.com/Tran-Research-Group/mypythonproject/blob/master/CONTRIBUTING.md) for guidelines for contributing to this project. Make sure you replace any references to "myproject" with "twitterinfrastructure"...

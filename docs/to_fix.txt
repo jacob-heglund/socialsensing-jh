@@ -1,0 +1,30 @@
+﻿Tests not working:
+
+1. test_analyze_nyctlc
+
+    • create_summary : trips_analysis_test table does not exist in test.db, missing create table 	query?
+
+2. test_nyiso
+
+    • test_clean_isolf: assertion error NaN is returned and test says shape has only 1 column, test seems incorrect
+      
+    • test_clean_palint: key mismatch, consider passing keys as arguments instead of using hardcodes
+      
+    • test_create_expected_load: dataframe format seems incorrect, df[‘datetime’] not datetime type
+      
+    • test_create_standard_load: expected_load table does not exist, should add setUp() to make tests independent
+      
+    • test_import_load: zone_name/name keyError, same as clean_palint
+
+Process outline:
+
+Shift framework to unittests
+
+Discuss with Jacob regarding missing data files
+
+Figure out whether method needs to be modified to enable better testing
+
+Rewrite tests which are not working
+
+Add more assertions in working tests
+

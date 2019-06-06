@@ -1,0 +1,46 @@
+# Compiled python modules.
+*.pyc
+
+# Conda
+*/bin/*
+
+# Other
+.cache/*
+.idea/*
+*.ipynb_*
+.pytest_cache/*
+
+# Data
+data/dump/*
+data/interim/sandy-tweetids.txt
+#data/interim/*
+data/processed/nyctlc*
+data/processed/nyiso*
+!data/processed/nyiso-zones*
+data/processed/sandy*
+data/processed/summary*
+data/processed/taxi_boroughs_analysis/*
+!data/processed/taxi_boroughs_analysis/taxi_boroughs_analysis.*
+data/raw/comcast-tweet.pdf
+data/raw/nyctlc-triprecorddata/*
+!data/raw/nyctlc-triprecorddata/data_dictionary*
+!data/raw/nyctlc-triprecorddata/raw_data_urls.txt
+!data/raw/nyctlc-triprecorddata/README.md
+!data/raw/nyctlc-triprecorddata/taxi+_zone_lookup.csv
+data/raw/nyiso/*
+!data/raw/nyiso/FERC890aDALFDesc.pdf
+!data/raw/nyiso/nyca_zonemaps.pdf
+!data/raw/nyiso/nyiso-zones*
+!data/raw/nyiso/README.md
+data/raw/release*
+*~
+
+# Notebooks
+notebooks/images/*
+
+# Test data (ignored because running pytest changes the db)
+tests/nyctlc/test.db
+tests/nyiso/test.db
+
+# Hydrator related
+*.DS_Store

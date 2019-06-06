@@ -1,0 +1,2 @@
+- PTID = Generator Point Identifier (per [this](http://www.nyiso.com/public/webdocs/markets_operations/documents/Manuals_and_Guides/Manuals/Operations/outage_sched_mnl.pdf) document).
+- Presentation describing basic NYISO terminology and power concepts [here](https://www.nyiso.com/public/webdocs/markets_operations/services/market_training/workshops_courses/Training_Course_Materials/NYMOC_MT_ALL_201/Power_Systems_Fundamentals.pdf).

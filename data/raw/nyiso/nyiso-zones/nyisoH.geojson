@@ -1,0 +1,38 @@
+{
+  "type" : "FeatureCollection",
+  "crs" :
+  {
+    "type" : "name",
+    "properties" :
+    {
+      "name" : "EPSG:3857"
+    }
+  },
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" :
+      {
+        "type" : "Polygon",
+        "coordinates" :
+        [
+          [
+            [-8190089.7997, 5037703.0477],
+            [-8226983.2488, 5034387.8583],
+            [-8233669.2782, 5043939.3289],
+            [-8235208.5181, 5060101.3476],
+            [-8202884.4808, 5063564.6373],
+            [-8190089.7997, 5037703.0477]
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "STATE" : "NY",
+        "Zone" : "H",
+        "Title" : "Millwood"
+      }
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+PWD c:\dev\research\socialsensing\docs\june paper\src
+INPUT C:\Users\Jacob\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\dev\research\socialsensing\docs\june paper\src\main.tex
+OUTPUT c:\dev\research\socialsensing\docs\june paper\src\main.log
+INPUT c:\dev\research\socialsensing\docs\june paper\src\interact.cls
+INPUT c:\dev\research\socialsensing\docs\june paper\src\interact.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amscls\amsthm.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amscls\amsthm.sty
+INPUT c:\dev\research\socialsensing\docs\june paper\src\booktabs.sty
+INPUT c:\dev\research\socialsensing\docs\june paper\src\booktabs.sty
+INPUT c:\dev\research\socialsensing\docs\june paper\src\epsfig.sty
+INPUT c:\dev\research\socialsensing\docs\june paper\src\epsfig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT c:\dev\research\socialsensing\docs\june paper\src\rotating.sty
+INPUT c:\dev\research\socialsensing\docs\june paper\src\rotating.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty
+INPUT c:\dev\research\socialsensing\docs\june paper\src\subfig.sty
+INPUT c:\dev\research\socialsensing\docs\june paper\src\subfig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty
+INPUT c:\dev\research\socialsensing\docs\june paper\src\natbib.sty
+INPUT c:\dev\research\socialsensing\docs\june paper\src\natbib.sty
+INPUT c:\dev\research\socialsensing\docs\june paper\src\main.aux
+INPUT c:\dev\research\socialsensing\docs\june paper\src\main.aux
+OUTPUT c:\dev\research\socialsensing\docs\june paper\src\main.aux
+INPUT C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr9.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx9.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi9.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy9.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex9.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmtt9.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
+OUTPUT c:\dev\research\socialsensing\docs\june paper\src\main.pdf
+INPUT C:\Users\Jacob\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbxti10.tfm
+INPUT c:\dev\research\socialsensing\docs\june paper\src\main.aux
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx9.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx9.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbxti10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbxti10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr6.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr6.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr9.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr9.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmtt9.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmtt9.pfb
